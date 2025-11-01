@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/bgPattern"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/background"
+        android:layout_alignParentTop="true" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/logo"
+        android:src="@drawable/uth" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageView"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:textColor="#369CFF"
+        android:textSize="20sp"
+        android:text="SmartTasks" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="#369CFF"
+        android:text="A simple and efficient to-do app" />
+
+    <Button
+        android:id="@+id/google"
+        android:layout_width="300dp"
+        android:layout_height="70dp"
+        android:layout_below="@id/textView4"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="#B3E5FC"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="SIGN IN WITH GOOGLE" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_below="@id/textView4"
+        android:layout_marginTop="40dp"
+        android:layout_marginStart="80dp"
+        android:src="@drawable/google"/>
+
+    <Button
+        android:id="@+id/facebook"
+        android:layout_width="300dp"
+        android:layout_height="70dp"
+        android:layout_below="@id/google"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="#B3E5FC"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="SIGN IN WITH FACEBOOK" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_below="@id/google"
+        android:layout_marginTop="39dp"
+        android:layout_marginStart="80dp"
+        android:src="@drawable/facebook"/>
+
+    <Button
+        android:id="@+id/github"
+        android:layout_width="300dp"
+        android:layout_height="70dp"
+        android:layout_below="@id/facebook"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="#B3E5FC"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="SIGN IN WITH GITHUB" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_below="@id/facebook"
+        android:layout_marginTop="39dp"
+        android:layout_marginStart="80dp"
+        android:src="@drawable/github"/>
+
+    <Button
+        android:id="@+id/microsoft"
+        android:layout_width="300dp"
+        android:layout_height="70dp"
+        android:layout_below="@id/github"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="#B3E5FC"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:paddingStart="50dp"
+        android:text="SIGN IN WITH MICROSOFT" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/github"
+        android:layout_marginTop="39dp"
+        android:layout_marginStart="80dp"
+        android:src="@drawable/microsoft"/>
+
+    <Button
+        android:id="@+id/yahoo"
+        android:layout_width="300dp"
+        android:layout_height="70dp"
+        android:layout_below="@id/microsoft"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="#B3E5FC"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:paddingStart="20dp"
+        android:text="SIGN IN WITH YAHOO" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/microsoft"
+        android:layout_marginTop="39dp"
+        android:layout_marginStart="80dp"
+        android:src="@drawable/yahoo"/>
+
+</RelativeLayout>

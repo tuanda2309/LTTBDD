@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "433573578903",
+    "project_id": "tuan5-f8bab",
+    "storage_bucket": "tuan5-f8bab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433573578903:android:cddf9067132fd7043c01d2",
+        "android_client_info": {
+          "package_name": "com.example.tuan5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433573578903-bpitgrkvee7r2h1cbt7svpf1hmr7lj8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tuan5",
+            "certificate_hash": "e12370972a87c78ed61559422b496ae84260337c"
+          }
+        },
+        {
+          "client_id": "433573578903-c9vvolmiof6iq20d83r8udme9gl4eg68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXirAqNKQQdhaWXV6q86a6KOp73u8S40M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433573578903-c9vvolmiof6iq20d83r8udme9gl4eg68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
