@@ -1,12 +1,12 @@
-[English](#english) | [Tiếng Việt](#tiếng-việt)
+[English](https://www.google.com/search?q=%23english) | [Tiếng Việt](https://www.google.com/search?q=%23ti%E1%BA%BFng-vi%E1%BB%87t)
 
----
+-----
 
 # English
 
-# LingBook - A Comprehensive English Learning App 🚀
+# Chapter 2: Kotlin, XML & UI Designer 📱
 
-**LingBook** is a mobile application project for the Android OS, built with the goal of providing users with a comprehensive and personalized English learning tool. The application allows users to learn through structured lessons, practice vocabulary with flashcards, and track their progress in detail.
+**Chapter 2 ** is a fundamental Android project based on the book *"Android Programming with Kotlin for Beginners"*. This project serves as a practical introduction to the Android Studio environment, bridging the gap between the User Interface (XML) and the underlying logic (Kotlin). It demonstrates how to build a basic layout and handle user interactions.
 
 ## 🖼️ Screenshots
 
@@ -16,82 +16,62 @@
 
 ## ✨ Features
 
-The LingBook application includes the following core feature flows:
+This demo covers the core learning outcomes of Chapter 2:
 
-#### 👤 **User Authentication & Management**
-* Register, Login, and Auto-Login sessions.
-* Full Profile Management:
-    * View user information.
-    * Update display name.
-    * Change password (with re-authentication for security).
-    * Permanently delete account (includes Firestore data cleanup).
-    * Logout functionality.
+#### 🎨 **User Interface (UI) Design**
 
-#### 📚 **Structured Lessons**
-* Lessons categorized into 3 levels: Beginner, Intermediate, and Advanced.
-* **Diverse Exercise Types:**
-    * Translation (Vietnamese-English & English-Vietnamese).
-    * Listen & Fill-in-the-blank.
-    * Listen & Choose the correct answer.
-* Automatically saves scores and progress after completing each lesson.
+  * **XML Layouts:** Demonstrates the structure of Android XML files.
+  * **UI Components:** Implementation of basic views such as:
+      * `TextView`: To display static and dynamic text.
+      * `Button`: To trigger user actions.
+  * **Layout Editor:** Utilization of both the Design view (drag-and-drop) and Text view (code) in Android Studio.
 
-#### 📇 **Vocabulary Learning with Flashcards**
-* Learn vocabulary organized by topics (Animals, Food, Jobs, etc.).
-* Modern flashcard interface with **3D flip animation** and **swipe navigation**.
-* Integrated **Text-to-Speech** to listen to standard pronunciation of words.
-* Saves learning progress: Users can mark words as **"I know"** or **"I don't know"**.
+#### 🔗 **Kotlin & UI Integration**
 
-#### 📈 **Progress Tracking**
-* **Overview Dashboard:** Displays statistics on completed lessons and learned words.
-* **Detailed Lesson History:** Shows a list of completed lessons with scores and completion dates.
-* **Detailed Vocabulary History:** Displays a list of learned words.
-* **Interactive:** Allows users to tap on a lesson in their history to redo it.
-* (Future plan) Allows users to tap on a voca in their history to see overview of it such as word, meaning, definition, pronunciation, mark word as learned or for learning, ...
+  * **Connecting Code to XML:** References UI elements in Kotlin code (using `findViewById` or View Binding depending on setup).
+  * **Event Handling:**
+      * Implements `OnClickListener` to detect user taps.
+      * Updates UI elements dynamically when a button is pressed.
+
+#### 🐞 **Debugging & Logging**
+
+  * **Logcat Integration:** Uses the `Log` class to print messages to the console.
+  * **System Output:** monitoring app lifecycle and variable states via the Android Studio Logcat window for debugging purposes.
 
 ## 🛠️ Tech Stack & Architecture
 
-This project was built using modern technologies and architecture patterns recommended by Google.
+This project is built to demonstrate the foundational concepts of Android Development.
 
-* **Language:** **Kotlin** (Official language for Android development).
-* **Architecture:**
-    * **Single-Activity Architecture:** Utilizes a main Activity to host all Fragments.
-    * **Lean MVVM (Model-View-ViewModel):** Separates UI (View) from data (Model), using a `SharedViewModel` to share user state across the app.
-* **UI:**
-    * **Android XML** with ViewBinding.
-    * **Material Design 3:** Implements modern components like `MaterialCardView`, `MaterialButton`, `BottomNavigationView`.
-* **Jetpack Components:**
-    * **Navigation Component:** Manages all navigation flows between screens visually and efficiently.
-    * **ViewModel & LiveData:** Manages UI-related data in a lifecycle-aware way.
-* **Backend & Data:**
-    * **Firebase Authentication:** Handles user authentication.
-    * **Cloud Firestore:** NoSQL database for storing all user info, lessons, vocabulary, and progress.
-* **Third-party Libraries:**
-    * **Glide:** For loading and displaying images from the internet.
-    * **Android's built-in Text-to-Speech (TTS)** engine.
+  * **Language:** **Kotlin** (Basic syntax and structure).
+  * **Architecture:**
+      * **Standard Activity:** Uses `MainActivity` as the entry point and logic controller.
+      * **Procedural Logic:** Direct interaction between the Activity and the Views (suitable for beginners).
+  * **UI:**
+      * **Android XML Layouts:** Using `ConstraintLayout` or `LinearLayout` for positioning.
+  * **Tools:**
+      * **Android Studio:** IDE for development.
+      * **Logcat:** For runtime diagnostics.
 
 ## 🚀 Getting Started
 
 1.  Clone this repository to your local machine.
-2.  Open the project in Android Studio.
-3.  Create a new project on the [Firebase Console](https://console.firebase.google.com/).
-4.  Add an Android app to the Firebase project with the package name `com.dex.lingbook`.
-5.  Download the `google-services.json` file from Firebase and place it in the project's `app` directory.
-6.  In the Firebase Console, enable the following services: **Authentication** (with the Email/Password provider) and **Firestore Database**.
-7.  Build and run the application.
+2.  Open the project in **Android Studio**.
+3.  Wait for Gradle to sync dependencies.
+4.  Connect an Android device or start an Emulator.
+5.  Open the **Logcat** tab at the bottom of Android Studio to see the output.
+6.  Build and run the application.
 
 ## 📱 Install the app on your phone
 
 <img width="500" height="500" alt="qrcode_279308189_f714bfe36830c592913bc6ce321618ad" src="https://github.com/user-attachments/assets/0846a540-92f6-49a2-8b68-c805543ae8b7" />
 
-
-
----
+-----
 
 # Tiếng Việt
 
-# LingBook - Ứng dụng Học Tiếng Anh Toàn diện 🚀
+# Chương 2: Kotlin, XML & Thiết kế Giao diện 📱
 
-**LingBook** là một dự án ứng dụng di động dành cho hệ điều hành Android, được xây dựng với mục tiêu cung cấp một công cụ học tiếng Anh toàn diện và cá nhân hóa cho người dùng. Ứng dụng cho phép người dùng học thông qua các bài học có cấu trúc, luyện tập từ vựng bằng flashcard, và theo dõi tiến độ của bản thân một cách chi tiết.
+**Chapter 2** là dự án Android cơ bản dựa trên cuốn sách *"Android Programming with Kotlin for Beginners"*. Dự án này đóng vai trò là bài thực hành nhập môn, giúp làm quen với môi trường Android Studio và cách kết nối giữa Giao diện người dùng (XML) với Logic xử lý (Kotlin). Nó minh họa cách xây dựng bố cục đơn giản và xử lý tương tác người dùng.
 
 ## 🖼️ Ảnh chụp Màn hình
 
@@ -101,73 +81,51 @@ This project was built using modern technologies and architecture patterns recom
 
 ## ✨ Tính năng Nổi bật
 
-Ứng dụng LingBook bao gồm các luồng tính năng chính:
+Bản demo này bao gồm các nội dung học tập cốt lõi của Chương 2:
 
-#### 👤 **Xác thực & Quản lý Người dùng**
-* Đăng ký, Đăng nhập, và các phiên tự động đăng nhập.
-* Quản lý Hồ sơ cá nhân đầy đủ:
-    * Xem thông tin người dùng.
-    * Cập nhật tên hiển thị.
-    * Thay đổi mật khẩu (với yêu cầu xác thực lại để đảm bảo an toàn).
-    * Xóa tài khoản vĩnh viễn (bao gồm cả việc dọn dẹp dữ liệu trên Firestore).
-    * Chức năng đăng xuất.
+#### 🎨 **Thiết kế Giao diện (UI)**
 
-#### 📚 **Học theo Bài học có Cấu trúc**
-* Các bài học được phân loại theo 3 cấp độ: Beginner, Intermediate, và Advanced.
-* **Các dạng Bài tập Đa dạng:**
-    * Dịch câu (Việt-Anh & Anh-Việt).
-    * Nghe & Điền từ vào chỗ trống.
-    * Nghe & Chọn đáp án đúng.
-* Tự động lưu điểm số và tiến độ sau khi hoàn thành mỗi bài học.
+  * **XML Layouts:** Minh họa cấu trúc của các tệp tin XML trong Android.
+  * **Thành phần UI:** Triển khai các view cơ bản như:
+      * `TextView`: Để hiển thị văn bản tĩnh và động.
+      * `Button`: Để kích hoạt hành động của người dùng.
+  * **Layout Editor:** Sử dụng song song cả giao diện Kéo-Thả (Design view) và giao diện Code (Text view) trong Android Studio.
 
-#### 📇 **Học Từ vựng với Flashcard**
-* Học từ vựng được sắp xếp theo chủ đề (Động vật, Thức ăn, Công việc,...).
-* Giao diện flashcard hiện đại với **hiệu ứng lật 3D** và **điều hướng bằng thao tác vuốt**.
-* Tích hợp **Text-to-Speech** để nghe phát âm chuẩn của từ vựng.
-* Lưu lại tiến độ học: Người dùng có thể đánh dấu từ là **"Đã biết"** hoặc **"Chưa biết"**.
+#### 🔗 **Tích hợp Kotlin & UI**
 
-#### 📈 **Theo dõi Tiến độ**
-* **Bảng điều khiển Tổng quan:** Hiển thị các số liệu thống kê về bài học đã hoàn thành và từ vựng đã thuộc.
-* **Lịch sử Bài học Chi tiết:** Hiển thị danh sách các bài học đã hoàn thành kèm theo điểm số và ngày làm bài.
-* **Lịch sử Từ vựng Chi tiết:** Hiển thị danh sách các từ đã học.
-* **Tương tác:** Cho phép người dùng nhấn vào một bài học trong lịch sử để làm lại.
-* (Kế hoạch phát triển trong tương lai) Cho phép người dùng nhấn vào một từ vựng trong lịch sử để xem tổng quan về nó như từ, nghĩa, định nghĩa, phát âm, đánh dấu là đã học hoặc đang học,...
+  * **Kết nối Code với XML:** Tham chiếu các phần tử giao diện trong code Kotlin (sử dụng `findViewById` hoặc View Binding tùy cấu hình).
+  * **Xử lý Sự kiện:**
+      * Triển khai `OnClickListener` để bắt sự kiện chạm của người dùng.
+      * Cập nhật các phần tử UI (thay đổi văn bản) khi nhấn nút.
+
+#### 🐞 **Gỡ lỗi & Logging**
+
+  * **Tích hợp Logcat:** Sử dụng lớp `Log` để in các thông báo ra màn hình console.
+  * **System Output:** Theo dõi vòng đời ứng dụng và trạng thái biến thông qua cửa sổ Logcat của Android Studio để phục vụ mục đích gỡ lỗi.
 
 ## 🛠️ Công nghệ & Kiến trúc
 
-Dự án được xây dựng dựa trên các công nghệ và kiến trúc hiện đại được Google khuyên dùng.
+Dự án này được xây dựng để minh họa các khái niệm nền tảng của Lập trình Android.
 
-* **Ngôn ngữ:** **Kotlin** (Ngôn ngữ chính thức để phát triển Android).
-* **Kiến trúc:**
-    * **Kiến trúc Đơn-Activity (Single-Activity):** Sử dụng một Activity chính để chứa tất cả các Fragment.
-    * **MVVM Tinh gọn (Lean MVVM):** Tách biệt giao diện (View) và dữ liệu (Model), sử dụng một `SharedViewModel` để chia sẻ trạng thái người dùng trên toàn ứng dụng.
-* **Giao diện (UI):**
-    * **Android XML** với ViewBinding.
-    * **Material Design 3:** Triển khai các thành phần hiện đại như `MaterialCardView`, `MaterialButton`, `BottomNavigationView`.
-* **Thành phần Jetpack:**
-    * **Navigation Component:** Quản lý toàn bộ luồng di chuyển giữa các màn hình một cách trực quan và hiệu quả.
-    * **ViewModel & LiveData:** Quản lý dữ liệu liên quan đến UI một cách an toàn và nhận biết được vòng đời.
-* **Backend & Dữ liệu:**
-    * **Firebase Authentication:** Xử lý xác thực người dùng.
-    * **Cloud Firestore:** Cơ sở dữ liệu NoSQL để lưu trữ toàn bộ thông tin người dùng, bài học, từ vựng và tiến độ.
-* **Các thư viện bên thứ ba:**
-    * **Glide:** Để tải và hiển thị hình ảnh từ Internet.
-    * **Engine Text-to-Speech (TTS)** có sẵn của Android.
+  * **Ngôn ngữ:** **Kotlin** (Cú pháp và cấu trúc cơ bản).
+  * **Kiến trúc:**
+      * **Standard Activity:** Sử dụng `MainActivity` làm điểm khởi chạy và điều khiển logic.
+      * **Procedural Logic:** Tương tác trực tiếp giữa Activity và các Views (phù hợp cho người mới bắt đầu).
+  * **Giao diện (UI):**
+      * **Android XML Layouts:** Sử dụng `ConstraintLayout` hoặc `LinearLayout` để sắp xếp vị trí.
+  * **Công cụ:**
+      * **Android Studio:** Môi trường phát triển tích hợp (IDE).
+      * **Logcat:** Để chẩn đoán lỗi khi chạy ứng dụng.
 
 ## 🚀 Cài đặt và Chạy dự án
 
 1.  Clone repository này về máy của bạn.
-2.  Mở project trong Android Studio.
-3.  Tạo một project mới trên [Firebase Console](https://console.firebase.google.com/).
-4.  Thêm một ứng dụng Android vào project Firebase với package name là `com.dex.lingbook`.
-5.  Tải về file `google-services.json` từ Firebase và đặt nó vào thư mục `app` của dự án.
-6.  Trong Firebase Console, bật các dịch vụ sau: **Authentication** (với nhà cung cấp Email/Password) và **Firestore Database**.
-7.  Build và chạy ứng dụng.
+2.  Mở project trong **Android Studio**.
+3.  Đợi Gradle đồng bộ hóa các thư viện (dependencies).
+4.  Kết nối thiết bị Android thật hoặc khởi động Máy ảo (Emulator).
+5.  Mở tab **Logcat** ở dưới cùng của Android Studio để xem thông báo.
+6.  Build và chạy ứng dụng.
 
 ## 📱 Cài đặt ứng dụng về điện thoại
 
 <img width="500" height="500" alt="qrcode_279308189_f714bfe36830c592913bc6ce321618ad" src="https://github.com/user-attachments/assets/0846a540-92f6-49a2-8b68-c805543ae8b7" />
-
-
-
-
