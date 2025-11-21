@@ -97,7 +97,7 @@ This project was built using modern technologies and architecture patterns recom
 
 | Màn hình chính | UI1 | UI2 | UI3 | Log |
 |---|---|---|---|---|
-|![1044756057681293585](https://github.com/user-attachments/assets/b28419a6-0e3d-4895-9eac-0367b2f81b0d)|![b241b9b7c84e44101d5f](https://github.com/user-attachments/assets/e5403942-c7d5-4998-ba1e-c971cc1217cc)|![d8d4b92ac8d3448d1dc2](https://github.com/user-attachments/assets/c9d6e2c7-9a10-4831-a8f1-7df39ad88942)|![3380596464655798574](https://github.com/user-attachments/assets/3d8fa32f-e545-425f-8785-1e1817e5986f)|![c40b8fe4fe1d72432b0c](https://github.com/user-attachments/assets/f9f1d0e1-4d82-4355-8696-010b734b9c87) |
+|![1044756057681293585](https://github.com/user-attachments/assets/b28419a6-0e3d-4895-9eac-0367b2f81b0d)|![b241b9b7c84e44101d5f](https://github.com/user-attachments/assets/e5403942-c7d5-4998-ba1e-c971cc1217cc)|![d8d4b92ac8d3448d1dc2](https://github.com/user-attachments/assets/c9d6e2c7-9a10-4831-a8f1-7df39ad88942)|![3380596464655798574](https://github.com/user-attachments/assets/3d8fa32f-e545-425f-8785-1e1817e5986f)|![c40b8fe4fe1d72432b0c](https://github.com/user-attachments/assets/f9f1d0e1-4d82-4355-8696-010b734b9c87)|
 
 ## ✨ Tính năng Nổi bật
 
