@@ -10,9 +10,9 @@
 
 ## 🖼️ Screenshots
 
-| Home Screen | Lesson List | Vocabulary Topic | Flashcards | Progress | Practice | Social |
-|---|---|---|---|---|---|---|
-| ![image](https://github.com/user-attachments/assets/06bbc305-b62b-433a-8bd3-6ed17f38449b) |![image](https://github.com/user-attachments/assets/97c3a480-d2f3-4a6d-8fb5-677c2339e575) |![image](https://github.com/user-attachments/assets/6cc1e592-1ba9-4ae3-8e3c-637363bda0cb) |![image](https://github.com/user-attachments/assets/b33ff8b5-c9d5-4794-8a34-c5794f87da2c) |![image](https://github.com/user-attachments/assets/f9229106-9e59-4d12-bf8e-f34737f2f078) |![image](https://github.com/user-attachments/assets/5ca8492c-2d74-4b2d-ae85-59bf4e18866c) |![image](https://github.com/user-attachments/assets/5908b6d3-6f48-40fe-ae89-717e3772f199) |
+| Home Screen | UI1 | UI2 | UI3 | Log |
+|---|---|---|---|---|
+|![1044756057681293585](https://github.com/user-attachments/assets/b28419a6-0e3d-4895-9eac-0367b2f81b0d) |![b241b9b7c84e44101d5f](https://github.com/user-attachments/assets/e5403942-c7d5-4998-ba1e-c971cc1217cc) |![d8d4b92ac8d3448d1dc2](https://github.com/user-attachments/assets/c9d6e2c7-9a10-4831-a8f1-7df39ad88942) |![3380596464655798574](https://github.com/user-attachments/assets/3d8fa32f-e545-425f-8785-1e1817e5986f) |![c40b8fe4fe1d72432b0c](https://github.com/user-attachments/assets/f9f1d0e1-4d82-4355-8696-010b734b9c87) |
 
 ## ✨ Features
 
