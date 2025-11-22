@@ -25,7 +25,7 @@ This collection demonstrates the use of standard Android development tools and l
     * **XML Layouts:** Classic Android view system.
     * **Material Design:** Utilizing Material Components for UI.
 * **Architecture:**
-    * **MVVM Pattern:** (Applied in later weeks/Elearning project).
+    * **MVVM Pattern:** (Applied in major exercises).
     * **ViewBinding:** For safer interaction with views.
 * **Jetpack Libraries:**
     * **Lifecycle & ViewModel:** Managing UI-related data.
@@ -67,7 +67,7 @@ Bộ bài tập này minh họa việc sử dụng các công cụ và thư vi�
     * **XML Layouts:** Hệ thống view truyền thống của Android.
     * **Material Design:** Sử dụng các component chuẩn Material.
 * **Kiến trúc:**
-    * **Mô hình MVVM:** (Được áp dụng trong các bài tập nâng cao và dự án Elearning).
+    * **Mô hình MVVM:** (Được áp dụng trong bài tập lớn).
     * **ViewBinding:** Tương tác với view an toàn và ngắn gọn hơn.
 * **Thư viện Jetpack:**
     * **Lifecycle & ViewModel:** Quản lý dữ liệu vòng đời ứng dụng.
