@@ -11,10 +11,9 @@ This repository contains a collection of exercises and projects for the **Mobile
 
 ## 🖼️ Screenshots
 
-| Week 1 - Basics | Week 3 - ListView | Week 5 - API Call | Elearning - Home |
-|---|---|---|---|
-| ![Week 1](https://via.placeholder.com/200x400?text=Week+1) | ![Week 3](https://via.placeholder.com/200x400?text=Week+3) | ![Week 5](https://via.placeholder.com/200x400?text=API+Demo) | ![Project](https://via.placeholder.com/200x400?text=Elearning+App) |
-> *Note: Please replace the placeholder links above with your actual screenshots.*
+| Tuần 1 | Tuần 2 | Tuần 3 | Tuần 4 | Tuần 5 |Tuần 6 |Elearning |
+|---|---|---|---|---|---|---|
+|![Tuan1](https://github.com/user-attachments/assets/1cd8c248-daa9-4275-8341-12a1c14f80bd) |![Tuan2](https://github.com/user-attachments/assets/6a7ea5c9-dde4-4c43-90de-44e093d89385) |![Tuan3](https://github.com/user-attachments/assets/c2e9b031-bbd4-4a97-aff2-bd9be40387b8) |![Tuan4](https://github.com/user-attachments/assets/f034d2bc-823c-48b3-a716-eda6acb3030a) |![Tuan5](https://github.com/user-attachments/assets/4f71246c-f888-47a4-98c3-7eb5a9f58614) |![Tuan6](https://github.com/user-attachments/assets/cc4507f6-f58a-47af-af7f-ec428884ad0e) |![Elearning](https://github.com/user-attachments/assets/2ae5bb76-73c8-4471-ba2c-5bf1415d30d9) |
 
 ## 🛠️ Tech Stack
 
@@ -56,7 +55,7 @@ Repository này là nơi tổng hợp các bài tập thực hành và dự án 
 
 | Tuần 1 | Tuần 2 | Tuần 3 | Tuần 4 | Tuần 5 |Tuần 6 |Elearning |
 |---|---|---|---|---|---|---|
-|![Tuan1](https://github.com/user-attachments/assets/1cd8c248-daa9-4275-8341-12a1c14f80bd) |<img width="540" height="1140" alt="Tuan2" src="https://github.com/user-attachments/assets/7b6e75af-fe15-4a7f-b8ae-9821c91f060c" /> |![Tuan3](https://github.com/user-attachments/assets/c2e9b031-bbd4-4a97-aff2-bd9be40387b8) |![Tuan4](https://github.com/user-attachments/assets/f034d2bc-823c-48b3-a716-eda6acb3030a) |![Tuan5](https://github.com/user-attachments/assets/4f71246c-f888-47a4-98c3-7eb5a9f58614) |![Tuan6](https://github.com/user-attachments/assets/cc4507f6-f58a-47af-af7f-ec428884ad0e) |<img width="540" height="1140" alt="Elearning" src="https://github.com/user-attachments/assets/a61ee698-8c7d-4923-b892-41f31df84d61" /> |
+|![Tuan1](https://github.com/user-attachments/assets/1cd8c248-daa9-4275-8341-12a1c14f80bd) |![Tuan2](https://github.com/user-attachments/assets/6a7ea5c9-dde4-4c43-90de-44e093d89385) |![Tuan3](https://github.com/user-attachments/assets/c2e9b031-bbd4-4a97-aff2-bd9be40387b8) |![Tuan4](https://github.com/user-attachments/assets/f034d2bc-823c-48b3-a716-eda6acb3030a) |![Tuan5](https://github.com/user-attachments/assets/4f71246c-f888-47a4-98c3-7eb5a9f58614) |![Tuan6](https://github.com/user-attachments/assets/cc4507f6-f58a-47af-af7f-ec428884ad0e) |![Elearning](https://github.com/user-attachments/assets/2ae5bb76-73c8-4471-ba2c-5bf1415d30d9) |
 
 ## 🛠️ Công nghệ & Kỹ thuật
 
