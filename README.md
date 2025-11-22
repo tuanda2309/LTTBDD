@@ -11,9 +11,10 @@ This repository contains a collection of exercises and projects for the **Mobile
 
 ## 🖼️ Screenshots
 
-| Tuần 1 | Tuần 2 | Tuần 3 | Tuần 4 | Tuần 5 |Tuần 6 |Elearning |
+| Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Elearning |
 |---|---|---|---|---|---|---|
-|![Tuan1](https://github.com/user-attachments/assets/1cd8c248-daa9-4275-8341-12a1c14f80bd) |![Tuan2](https://github.com/user-attachments/assets/6a7ea5c9-dde4-4c43-90de-44e093d89385) |![Tuan3](https://github.com/user-attachments/assets/c2e9b031-bbd4-4a97-aff2-bd9be40387b8) |![Tuan4](https://github.com/user-attachments/assets/f034d2bc-823c-48b3-a716-eda6acb3030a) |![Tuan5](https://github.com/user-attachments/assets/4f71246c-f888-47a4-98c3-7eb5a9f58614) |![Tuan6](https://github.com/user-attachments/assets/cc4507f6-f58a-47af-af7f-ec428884ad0e) |![Elearning](https://github.com/user-attachments/assets/2ae5bb76-73c8-4471-ba2c-5bf1415d30d9) |
+|![Tuan1](https://github.com/user-attachments/assets/1cd8c248-daa9-4275-8341-12a1c14f80bd) |![Tuan2 1](https://github.com/user-attachments/assets/f606c01b-ff3d-4bf8-955c-3c656f03be88) |![Tuan3](https://github.com/user-attachments/assets/c2e9b031-bbd4-4a97-aff2-bd9be40387b8) |![Tuan4](https://github.com/user-attachments/assets/f034d2bc-823c-48b3-a716-eda6acb3030a) |![Tuan5](https://github.com/user-attachments/assets/4f71246c-f888-47a4-98c3-7eb5a9f58614) |![Tuan6](https://github.com/user-attachments/assets/cc4507f6-f58a-47af-af7f-ec428884ad0e) |![Elearning1](https://github.com/user-attachments/assets/13f49985-8abc-48c1-a159-8ca698896068) | 
+
 
 ## 🛠️ Tech Stack
 
@@ -53,7 +54,7 @@ Repository này là nơi tổng hợp các bài tập thực hành và dự án 
 
 ## 🖼️ Ảnh chụp Màn hình
 
-| Tuần 1 | Tuần 2 | Tuần 3 | Tuần 4 | Tuần 5 |Tuần 6 |Elearning |
+| Tuần 1 | Tuần 2 | Tuần 3 | Tuần 4 | Tuần 5 | Tuần 6 | Elearning |
 |---|---|---|---|---|---|---|
 |![Tuan1](https://github.com/user-attachments/assets/1cd8c248-daa9-4275-8341-12a1c14f80bd) |![Tuan2](https://github.com/user-attachments/assets/6a7ea5c9-dde4-4c43-90de-44e093d89385) |![Tuan3](https://github.com/user-attachments/assets/c2e9b031-bbd4-4a97-aff2-bd9be40387b8) |![Tuan4](https://github.com/user-attachments/assets/f034d2bc-823c-48b3-a716-eda6acb3030a) |![Tuan5](https://github.com/user-attachments/assets/4f71246c-f888-47a4-98c3-7eb5a9f58614) |![Tuan6](https://github.com/user-attachments/assets/cc4507f6-f58a-47af-af7f-ec428884ad0e) |![Elearning](https://github.com/user-attachments/assets/2ae5bb76-73c8-4471-ba2c-5bf1415d30d9) |
 
